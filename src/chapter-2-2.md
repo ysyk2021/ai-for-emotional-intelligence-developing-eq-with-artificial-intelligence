@@ -1,5 +1,3 @@
-Selecting the Right Tools for Your Emotional Needs
-======================================================================================================================================
 
 Artificial Intelligence (AI) has the potential to significantly enhance Emotional Intelligence (EQ) development. In this chapter, we will explore how to select the right tools for your emotional needs when it comes to AI-driven EQ development.
 

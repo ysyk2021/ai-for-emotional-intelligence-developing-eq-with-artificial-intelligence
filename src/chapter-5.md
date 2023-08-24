@@ -1,5 +1,3 @@
-Chapter 5: Improving Decision Making and Problem Solving with AI
-================================================================
 
 Artificial Intelligence (AI) can assist individuals in developing Emotional Intelligence (EQ) by improving their decision-making and problem-solving abilities. In this chapter, we will explore two ways that AI can help individuals improve their EQ: through AI-driven cognitive behavioral therapy and mindfulness practices, and through AI-assisted conflict resolution and negotiation.
 

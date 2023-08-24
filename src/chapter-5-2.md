@@ -1,5 +1,3 @@
-AI-Assisted Conflict Resolution and Negotiation
-=================================================================================================================
 
 One of the key components of Emotional Intelligence (EQ) is the ability to make effective decisions and solve problems, especially in high-stress situations. Artificial Intelligence (AI) can assist individuals in improving their decision-making and problem-solving skills by providing insights and recommendations based on data analysis. In this chapter, we will explore how AI can be used to assist in conflict resolution and negotiation.
 

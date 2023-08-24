@@ -1,5 +1,3 @@
-Automated Feedback and Analysis Using AI
-==============================================================================================================
 
 One of the key components of emotional intelligence (EI) is effective communication and relationship building. In this chapter, we explore how artificial intelligence (AI) can be used to enhance communication and relationship building through automated feedback and analysis.
 
