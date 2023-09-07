@@ -10,3 +10,7 @@ Additionally, this book addresses ethical considerations associated with the use
 This book is intended for individuals looking to improve their emotional intelligence skills, as well as professionals in fields such as coaching, education, and human resources. By exploring the intersection of AI and emotional intelligence, this book aims to provide valuable insights and inspiration for those interested in enhancing their EQ through the power of AI.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
