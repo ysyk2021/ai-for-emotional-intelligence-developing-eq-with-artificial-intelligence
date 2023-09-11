@@ -1,5 +1,4 @@
-Chapter: Using AI for Personalized Emotional Assessment and Development
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the utilization of Artificial Intelligence (AI) for personalized emotional assessment and development, providing individuals with tailored insights and interventions to enhance their emotional intelligence (EQ). AI technologies offer innovative tools that can analyze diverse data sources, provide accurate assessments, and generate personalized recommendations for EQ growth.
 

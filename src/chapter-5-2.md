@@ -1,5 +1,4 @@
-Chapter: AI-Assisted Conflict Resolution and Negotiation
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the applications of Artificial Intelligence (AI) in assisting with conflict resolution and negotiation processes to develop emotional intelligence (EQ). AI technologies offer innovative tools and techniques that can enhance communication, empathy, and problem-solving skills, facilitating more effective conflict resolution and negotiation outcomes.
 

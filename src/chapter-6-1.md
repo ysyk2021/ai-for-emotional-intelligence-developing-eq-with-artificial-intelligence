@@ -1,5 +1,4 @@
-Chapter: Importance of Ethical and Unbiased Emotional Intelligence Practices
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we emphasize the significance of ethical and unbiased practices when utilizing Artificial Intelligence (AI) for developing emotional intelligence (EQ). As AI becomes more integrated into EQ development, it is essential to prioritize ethics and avoid biases to ensure fairness, trust, and inclusivity in the process.
 

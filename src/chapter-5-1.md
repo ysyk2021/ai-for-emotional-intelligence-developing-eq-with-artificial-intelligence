@@ -1,5 +1,4 @@
-Chapter: AI-Driven Cognitive Behavioral Therapy and Mindfulness Practices
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the intersection of Artificial Intelligence (AI) with Cognitive Behavioral Therapy (CBT) and mindfulness practices for developing emotional intelligence (EQ). AI technologies offer innovative tools that can enhance self-awareness, emotion regulation, and well-being, augmenting the benefits of CBT and mindfulness in EQ development.
 

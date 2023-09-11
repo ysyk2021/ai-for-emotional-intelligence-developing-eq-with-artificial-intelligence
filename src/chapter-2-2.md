@@ -1,5 +1,4 @@
-Chapter: Selecting the Right Tools for Your Emotional Needs
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the process of selecting the right tools and technologies to meet your emotional needs when developing emotional intelligence (EQ) with Artificial Intelligence (AI). Understanding your goals, considering various factors, and aligning the tools with your specific requirements are crucial for successful EQ development.
 

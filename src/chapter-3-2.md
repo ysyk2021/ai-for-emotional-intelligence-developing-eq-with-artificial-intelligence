@@ -1,5 +1,4 @@
-Chapter: Predictive Analytics and Forecasting for EQ Improvement
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the application of predictive analytics and forecasting in improving emotional intelligence (EQ) through Artificial Intelligence (AI). By leveraging AI technologies to analyze data and predict emotional patterns, individuals can gain valuable insights to enhance their EQ skills and make informed decisions for personal growth.
 

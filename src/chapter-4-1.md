@@ -1,5 +1,4 @@
-Chapter: AI-Powered Communication and Social Skills Training
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the potential of Artificial Intelligence (AI) in developing emotional intelligence (EQ) through communication and social skills training. AI technologies can provide innovative solutions to enhance interpersonal interactions, empathy, and effective communication. Let's delve into the various applications and benefits of AI-powered training in these areas.
 

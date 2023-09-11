@@ -1,5 +1,4 @@
-Chapter: Unlocking New Opportunities with AI
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the potential of Artificial Intelligence (AI) in unlocking new opportunities for developing emotional intelligence (EQ). AI technologies offer innovative tools that can enhance self-awareness, empathy, and other emotional skills, opening up new pathways for personal and professional growth.
 

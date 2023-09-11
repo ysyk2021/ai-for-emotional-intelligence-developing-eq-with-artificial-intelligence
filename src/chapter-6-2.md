@@ -1,5 +1,4 @@
-Chapter: Mitigating Risks and Ensuring Compliance
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) has significant potential to enhance emotional intelligence (EQ) development. However, it is crucial to consider the risks associated with AI applications and ensure compliance with ethical standards and legal regulations. In this chapter, we explore strategies for mitigating risks and promoting compliance when using AI for EQ development.
 

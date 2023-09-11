@@ -1,5 +1,4 @@
-Chapter: Automated Feedback and Analysis using AI
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the advantages and applications of utilizing Artificial Intelligence (AI) for automated feedback and analysis in the context of developing emotional intelligence (EQ). AI technologies offer innovative ways to provide timely, personalized feedback and insightful analysis that can enhance EQ development effectively.
 
